@@ -1,0 +1,2 @@
+this is my 3rd file
+this is the text appended through terminal
